@@ -1,2 +1,2 @@
 # Scratch-AetherOS
-The GitHub repository for my final and best scratch project- AetherOS. 
+The GitHub repository for my final and best operating system scratch project- AetherOS. 
